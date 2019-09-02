@@ -1,0 +1,6 @@
+*.pyc
+*~
+__pychache__
+dstock
+db.sqlite3
+/.vscode
